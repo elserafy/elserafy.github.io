@@ -1,10 +1,14 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+- course: B.Sc in Computer Science
+  institute: Mansoura University
+  dates: 2013 - 2017
+  logo: mu.png
   
-- course: Pre Fellowship Fellow
-  institute: MLH Fellowship
+- course: iOS Networking with Swift
+  institute: Udacity
+  dates: Summer 2020
+  logo: udacity-logo.png
+  
+- course: Introduction to Algorithms - 6.006
+  institute: MIT
   dates: Summer 2021
-  logo: fellowship.svg
-  
+  logo: mit.png
