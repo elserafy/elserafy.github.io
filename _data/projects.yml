@@ -1,5 +1,33 @@
+- title: Universal App
+  event: Universal is a React Native transaction management app that enables merchants to efficiently handle loyalty program operations.
+  date: Nov 2022 - Present
+
+- title: VAT - فاتورتك حمايتك وجايزتك
+  event: VAT is an incentive program from the Tax Authority that rewards citizens for every transaction with a tax receipt.
+  date: Nov 2022 - Present
+
+- title: Consumer App
+  event: Consumer is a React Native app that allows users to collect points when they fill their car with at least 25 liters of Mobil Super Plus 95 at participating service stations that have On the Run or when purchasing any Mobil oil package.
+  date: Mar 2022 - May 2024
+
+- title: ALEXPOINTS
+  event: ALEXPOINTS is a loyalty program provided by Alexbank, offering customers special discounts and the ability to collect and redeem points through the app. 
+  date: Oct 2021 - Mar 2024
+
+- title: Traders App
+  event: Trader is a React Native app that enables participating lube shops to accumulate points with every purchase of Mobil oil SKUs included in the program. Points are awarded based on specific segments, and users can redeem value vouchers within a network of merchants through Mobilawy. 
+  date: Dec 2021 - Feb 2024
+
+- title: Marketplace SDK
+  event: Implemented the Marketplace SDK to provide users with a seamless way to send and receive special deliveries safely and quickly, while also granting access to exclusive offers tailored for them.
+  date: Jul 2022 - Aug 2022
+
+- title: Beyond Assistance
+  event: Beyond is a native app designed to enhance the experience of Visa Debit cardholders in Egypt, enabling secure and fast transactions while providing exclusive discounts of up to 25% on governmental services, pickup & delivery, road assistance, and limousine services.
+  date: Oct 2021 - Dec 2021
+  
 - title: HospiHome
-  event: HospiHome is an iOS mobile application that helps patients stay at home without concerning for safety by communicating with doctors remotely without putting themselves in risk.
+  event: HospiHome is an iOS mobile application designed to help patients receive medical care safely from home by enabling remote communication with doctors, reducing the need for in-person visits.
   date: April 2020  - May 2020
 
 - title: Feshar App
