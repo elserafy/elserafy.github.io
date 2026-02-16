@@ -1,3 +1,15 @@
+- title: LeaderBoard SDK
+  event: LeaderBoard SDK is a native SDK built on top of the Gamification SDK, displaying rankings of top users and other high-performing participants. It drives competitive participation and motivates users to engage more with challenges and rewards.
+  date: Aug 2025 - Present
+
+- title: Gamification SDK
+  event: Gamification SDK is a native software development kit that enables users to complete tasks and earn reward points. It enhances user engagement, motivation, and retention through interactive, goal-driven experiences.
+  date: Jul 2025 - Present
+
+- title: Medan App
+  event: Medan App is a cross-platform React Native app built with TypeScript that provides comprehensive horse racing information. It displays live race results, upcoming matches, competitor details, and auctions for horses, highlighting top horses to buy. The app covers competitions across the Middle East and Arabian Gulf, including Qatar, KSA, Dubai, and Sharjah, and sends real-time notifications about race winners to keep users engaged.
+  date: Mar 2025 - Aug 2025
+
 - title: Universal App
   event: Universal is a React Native transaction management app that enables merchants to efficiently handle loyalty program operations.
   date: Nov 2022 - Present
@@ -11,11 +23,11 @@
   date: Mar 2022 - May 2024
 
 - title: ALEXPOINTS
-  event: ALEXPOINTS is a loyalty program provided by Alexbank, offering customers special discounts and the ability to collect and redeem points through the app. 
+  event: ALEXPOINTS is a loyalty program provided by Alexbank, offering customers special discounts and the ability to collect and redeem points through the app.
   date: Oct 2021 - Mar 2024
 
 - title: Traders App
-  event: Trader is a React Native app that enables participating lube shops to accumulate points with every purchase of Mobil oil SKUs included in the program. Points are awarded based on specific segments, and users can redeem value vouchers within a network of merchants through Mobilawy. 
+  event: Trader is a React Native app that enables participating lube shops to accumulate points with every purchase of Mobil oil SKUs included in the program. Points are awarded based on specific segments, and users can redeem value vouchers within a network of merchants through Mobilawy.
   date: Dec 2021 - Feb 2024
 
 - title: Marketplace SDK
@@ -25,7 +37,7 @@
 - title: Beyond Assistance
   event: Beyond is a native app designed to enhance the experience of Visa Debit cardholders in Egypt, enabling secure and fast transactions while providing exclusive discounts of up to 25% on governmental services, pickup & delivery, road assistance, and limousine services.
   date: Oct 2021 - Dec 2021
-  
+
 - title: HospiHome
   event: HospiHome is an iOS mobile application designed to help patients receive medical care safely from home by enabling remote communication with doctors, reducing the need for in-person visits.
   date: April 2020  - May 2020
